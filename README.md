@@ -80,7 +80,7 @@ I'm a **Software Engineer** who builds scalable web applications from start to f
   <a href="mailto:moustafagamal611@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL"> 
+  <a href="https://www.linkedin.com/in/mustafa-gamal-074099244"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mustafagamal9">
