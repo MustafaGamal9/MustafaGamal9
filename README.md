@@ -92,4 +92,4 @@ I'm a **Software Engineer** who builds scalable web applications from start to f
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
 </div>
----
+
