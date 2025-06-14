@@ -14,7 +14,8 @@
 
 ### About Me
 
-I'm a **Software Engineer** who builds robust, scalable web applications from concept to deployment. I specialize in creating seamless user experiences backed by reliable server architectures, with expertise spanning modern frontend frameworks to cloud-native backend solutions.
+I'm a **Software Engineer** who builds scalable web applications from start to finish. I focus on creating smooth user experiences supported by reliable backend architectures, working with modern frontend frameworks and cloud-based backend solutions.
+
 
 **Technical Expertise**
 
